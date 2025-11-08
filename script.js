@@ -17,7 +17,7 @@ const map = new mapboxgl.Map({
         type: 'circle',
         source: 'points-data',
         paint: {
-              'circle-color': 'ff69b4',
+              'circle-color': '#ff69b4',
               'circle-radius': 6,
               'circle-stroke-width': 3,
               'circle-stroke-color': '#ffffff'
