@@ -20,7 +20,7 @@ const map = new mapboxgl.Map({
               'circle-color': '#FF69B4',
               'circle-radius': 6,
               'circle-stroke-width': 3,
-              'circle-stroke-color': '#FFFFFF'
+              'circle-stroke-color': '#ffffff'
           }
       });
 
