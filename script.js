@@ -2,8 +2,8 @@
 const map = new mapboxgl.Map({
         container: 'map', // container ID
         style: 'mapbox://styles/alondra-gs/cmh9d50gw00q001smgprd25qj', //Your Style URL goes here
-        center: [-122.27, 37.87], // starting position [lng, lat]. Note that lat must be set between -90 and 90
-        zoom: 9 // starting zoom
+        center: [-122.2730, 37.8715], // starting position [lng, lat]. Note that lat must be set between -90 and 90
+        zoom: 12 // starting zoom
     });
 
   map.on('load', function() {
